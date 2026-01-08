@@ -129,7 +129,11 @@
 //     return false;
 // }
 // console.log(findTwoSum([1, 5, 7, 4, 9], 11));
+<<<<<<< HEAD
 k
+=======
+
+>>>>>>> f92fafb6f1823319062200bd0f429d085275a83f
 // // 9-masala //////////////////////////////////////////////////////////////////
 
 // function longestConsecutive(array) {
